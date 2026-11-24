@@ -3,3 +3,5 @@ out/
 .idea/
 *.iml
 .vscode/
+server_files/
+received_*/
